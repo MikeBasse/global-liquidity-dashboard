@@ -31,4 +31,4 @@ A multi-asset liquidity proxy indicator for TradingView that helps detect Bitcoi
 
 ### 📜 License
 
-MIT License or specify your own terms.
+MikeBasse.
