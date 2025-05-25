@@ -1,5 +1,3 @@
-# global-liquidity-dashboard
-Global liquidity ibdicator, small but powerfull for crypto currency trading on TradingView plateform.
 # Global Liquidity Dashboard (Enhanced v2)
 
 A multi-asset liquidity proxy indicator for TradingView that helps detect Bitcoin trend breakouts and breakdowns using:
